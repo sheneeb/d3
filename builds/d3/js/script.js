@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var mydata = [
     {date: '4/01/2017', low: 55, high: 78},
     {date: '4/02/2017', low: 65, high: 83},
@@ -16,3 +17,5 @@ return '<th scope="row"' + d.date +
 '</td><td>' +d.high + '</td>'
 
     });
+=======
+>>>>>>> parent of d94c52d... 01_02e
